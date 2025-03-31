@@ -1,4 +1,4 @@
-# Automated Email Sequencer
+# Assignment-13
 
 `Automated Email Sequencer` is a `MERN Stack` web application that allows users to create and manage automated email sequences using a flowchart interface. This application uses `React Flow` for visualizing the flowchart, `Agenda` for email scheduling, and `Nodemailer` for sending emails.
 
@@ -64,5 +64,3 @@ npm run dev
 ### Open the application
 
 Open your browser and navigate to http://localhost:5173 to view the application.
-# Assignment-13
-# Assignment-13
